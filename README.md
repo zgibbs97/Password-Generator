@@ -10,8 +10,8 @@
 
 # Last we concacted all the variables into a generated password.
 
-![Screenshot](./assets/img.unknown.png)
+![Screenshot](./assets/img/unknown.png)
 
 # Link to the website!
 
-https://zgibbs97.github.io/MyPortfolio/
+https://zgibbs97.github.io/Password-Generator/.
